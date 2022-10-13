@@ -1,4 +1,4 @@
-,Unnamed: 0,call,put,strike,Share,symbol,trade date,exercise date,LIBOR Rate,Implied Volatility
+,Unnamed: 0,call,put,strike,Share,symbol,trade date,exercise date,LIBOR Rate,volatility
 0,0,12.05,21.23,160,148.35000610351562,JNJ,2020-09-14,2023-01-20,3.2972,21.28
 1,1,12.7,21.421,160,148.35000610351562,JNJ,2020-09-15,2023-01-20,3.2972,21.389
 2,2,12.55,21.06,160,148.88999938964844,JNJ,2020-09-16,2023-01-20,3.2972,21.214
